@@ -1,1 +1,2 @@
-# PROJECT4_
+# PROJECT3
+With further research, we began to look into providing an outdoor installation that provided meaningful  attraction to the city of which it would be located. Taking particular interest in the city of Hamilton, we found that the city started an urban smart city challenge, where their approach aimed to leverage the fundamental benefits of urban technology throughout the city and Hospitals. Giving that the values emphasized the importance of collaboration,  we decided that our installation would be on the preservation and promotion of the change and innovation; where we would be taking part into fundraising with the leading hospital in Hamilton : The MacMaster Children’s Hospital Foundation. 
